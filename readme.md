@@ -2,7 +2,7 @@
 
 # 😃 Hi there
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/48249622/158986993-738c5e95-c4d4-45ef-a0a6-41456768cdfd.jpg">
+<img align="right" width="260" src="https://user-images.githubusercontent.com/48249622/158987967-2f12a272-d477-42f5-b3b1-b58a46267004.jpg">
 
 I'm a2tt, from South Korea. I keep striving hard to be a great Backend and Infrastructure Engineer.
 
@@ -65,14 +65,9 @@ I'm a2tt, from South Korea. I keep striving hard to be a great Backend and Infra
 ## ⚡ Github Stats
 
 <a href="https://blog.a2tt.me?utm_source=github-profile">
-<img height="220px" src="https://github-readme-stats.vercel.app/api?username=a2tt&show_icons=true&count_private=true&theme=buefy&hide_title=false" /><!--
---><img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2tt&hide=less,objective-C&langs_count=3&theme=buefy&hide_title=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=a2tt&show_icons=true&count_private=true&theme=buefy&hide_title=false" /><!--
+--><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2tt&hide=less,objective-C&langs_count=3&theme=buefy&hide_title=false" />
 </a>
-
-
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
-<!-- https://github-readme-stats.vercel.app/api?username=a2tt&show_icons=true&count_private=true&bg_color=30,bd25f4,bd25f4,c94cf6,cc57f7,da85f9&title_color=ffffff&text_color=FEF9EC&icon_color=da85f9-->
-
 <br>
 
 <hr>
