@@ -10,7 +10,7 @@ I'm a2tt, from South Korea. I keep striving hard to be a great Backend and Infra
 
 🧑‍🏭 I'm currently working on **Capstone project** for graduation.
 
-🎯 I'm currently Exploring **Redis source code**
+🎯 I'm currently Exploring **Redis internals**
 
 👨‍💻 I'm currently learning **Go, C, Computer Science**
 
@@ -73,7 +73,7 @@ I'm a2tt, from South Korea. I keep striving hard to be a great Backend and Infra
 <hr>
 <p align="center">
 	<strong>You can find me here 👻</strong><br><br>
-    <a target="_blank" href="https://blog.a2tt.me"><img src="https://img.shields.io/badge/-Blog-c638e6?style=for-the-badge&logo=GoogleChrome&logoColor=white"></img></a>
+    <a target="_blank" href="https://blog.a2tt.me?utm_source=github-profile"><img src="https://img.shields.io/badge/-Blog-c638e6?style=for-the-badge&logo=GoogleChrome&logoColor=white"></img></a>
     <a target="_blank" href="https://www.linkedin.com/in/km-k"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
     <a target="_blank" href="mailto:usera2tt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
     <br>
