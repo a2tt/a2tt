@@ -41,6 +41,8 @@ I'm a2tt, from South Korea. I keep striving hard to be a great Backend and Infra
 <img style="marginL 10px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&amp;style=for-the-badge&amp;logo=redis&amp;logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white">
+<img style="marginL 10px" src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white">
+<img style="marginL 10px" src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white">
 </div>
 
 </td><td valign="top" width="40%">
