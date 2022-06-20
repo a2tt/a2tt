@@ -8,11 +8,11 @@ I'm a2tt, from South Korea. I keep striving hard to be a great Backend and Infra
 
 🎓 I'm a 4th-year student pursuing Bachelor's degree in **Computer Science**
 
-🧑‍🏭 I'm currently working on **Capstone project** for graduation.
+🧑‍🏭 I'm currently writing an **Article about capstone project**
 
-🎯 I'm currently Exploring **Redis internals**
+🎯 I'm currently trying to **Answer all the questions I've been curious about**
 
-👨‍💻 I'm currently learning **Go, C, Computer Science**
+👨‍💻 I'm currently learning **Computer Science, Go, C**
 
 🎆 Fun fact: I love wearing fragrance. My favorite is [Pera Granita](https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Pera-Granita-35554.html)
 
@@ -68,7 +68,7 @@ I'm a2tt, from South Korea. I keep striving hard to be a great Backend and Infra
 
 <a href="https://blog.a2tt.me?utm_source=github-profile">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=a2tt&show_icons=true&count_private=true&theme=buefy&hide_title=false" /><!--
---><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2tt&hide=less,objective-C&langs_count=3&theme=buefy&hide_title=false" />
+--><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2tt&hide=less,objective-C&langs_count=4&theme=buefy&hide_title=false" />
 </a>
 <br>
 
