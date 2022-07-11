@@ -1,18 +1,15 @@
 
-
 # 😃 Hi there
 
 <img align="right" width="260" src="https://user-images.githubusercontent.com/48249622/158987967-2f12a272-d477-42f5-b3b1-b58a46267004.jpg">
 
-I'm a2tt, from South Korea. I keep striving hard to be a great Backend and Infrastructure Engineer.
+I'm a2tt, from the Republic of Korea. I keep striving hard to be a great Backend and Infrastructure Engineer.
 
 🎓 I'm a 4th-year student pursuing Bachelor's degree in **Computer Science**
 
-🧑‍🏭 I'm currently writing an **Article about capstone project**
+👨‍💻 I'm currently learning **DNS, Computer Science**
 
 🎯 I'm currently trying to **Answer all the questions I've been curious about**
-
-👨‍💻 I'm currently learning **DNS, Computer Science**
 
 🎆 Fun fact: I love wearing fragrance. My favorite is [Pera Granita](https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Pera-Granita-35554.html)
 
@@ -34,6 +31,7 @@ I'm a2tt, from South Korea. I keep striving hard to be a great Backend and Infra
 <img style="marginL 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E">
 </div>
+<!--
 </td><td valign="top" width="20%">
 
 **Currently working with:**
@@ -44,6 +42,7 @@ I'm a2tt, from South Korea. I keep striving hard to be a great Backend and Infra
 <img style="marginL 10px" src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white">
 </div>
+-->
 
 </td><td valign="top" width="40%">
 
