@@ -9,7 +9,7 @@ I'm a2tt, from the Republic of Korea. I keep striving hard to be a great Backend
 
 🎯 I'm currently trying to **Answer all the questions I've been curious about**
 
-👨‍💻 I'm currently learning **DNS, IaS, Computer Science**
+👨‍💻 I'm currently learning **DNS, IaC, Computer Science**
 
 🎆 Fun fact: I love wearing fragrance. My favorite is [Pera Granita](https://www.fragrantica.com/perfume/Guerlain/Aqua-Allegoria-Pera-Granita-35554.html)
 
