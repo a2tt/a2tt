@@ -9,7 +9,9 @@ I'm a2tt, from the Republic of Korea. I keep striving hard to be a great Backend
 
 🤔 I’m currently thinking about how I'm supposed to live my life.
 
-👨‍💻 I'm currently learning **DNS, IaC, Computer Science**
+🧑‍🏭 I’m currently interested in **Best Practice**.
+
+👨‍💻 I'm currently learning **Computer Science and IaC**.
 
 🎆 Fun fact: I love wearing fragrance. My favorite is [You Or Someone Like You](https://www.fragrantica.com/perfume/Etat-Libre-d-Orange/You-Or-Someone-Like-You-43531.html)
 
