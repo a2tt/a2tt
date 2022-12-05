@@ -5,13 +5,13 @@
 
 I'm a2tt, from the Republic of Korea. I keep striving hard to be a great Backend and Infrastructure Engineer.
 
-🛹 I'm currently in the process of onboarding for a new company.
+👨‍💻 I’m currently learning DDD and API design.
+
+🧑‍🏭 I’m currently interested in Best Practice.
 
 🤔 I’m currently thinking about how I'm supposed to live my life.
 
-🧑‍🏭 I’m currently interested in **Best Practice**.
-
-👨‍💻 I'm currently learning **Computer Science and IaC**.
+🤹‍♂️ These days, I’m enjoying my new job :)
 
 🎆 Fun fact: I love wearing fragrance. My favorite is [You Or Someone Like You](https://www.fragrantica.com/perfume/Etat-Libre-d-Orange/You-Or-Someone-Like-You-43531.html)
 
@@ -27,6 +27,7 @@ I'm a2tt, from the Republic of Korea. I keep striving hard to be a great Backend
 <img style="marginL 10px" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/Amazon_AWS-232f3e?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=ec912d">
 <img style="marginL 10px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white">
+<img style="marginL 10px" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">
@@ -58,7 +59,6 @@ I'm a2tt, from the Republic of Korea. I keep striving hard to be a great Backend
 <img style="marginL 10px" src="https://img.shields.io/badge/Bash-283037?style=for-the-badge&amp;logo=GNU%20Bash&amp;logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&amp;logo=tmux&amp;logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white">
-<img style="marginL 10px" src="https://img.shields.io/badge/PyCharm-000000.svg?&amp;style=for-the-badge&amp;logo=PyCharm&amp;logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img style="marginL 10px" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&amp;style=for-the-badge&amp;logo=vim&amp;logoColor=white">
 </div>
