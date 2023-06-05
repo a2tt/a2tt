@@ -5,9 +5,7 @@
 
 I'm a2tt, from the Republic of Korea. I keep striving hard to be a great Backend and Infrastructure Engineer.
 
-🧑‍🏭 I’m currently preparing to acquire [**K-ISMS**](https://aws.amazon.com/compliance/k-isms/) certification.
-
-👨‍💻 I’m currently interested in **productivity**.
+🧑‍🏭 ⛓️ I'm currently interested in **blockchain and Ethereum**.
 
 🤔 I’m currently thinking about how I'm supposed to live my life.
 
